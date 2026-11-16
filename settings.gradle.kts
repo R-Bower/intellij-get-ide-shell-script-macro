@@ -1,0 +1,1 @@
+rootProject.name = "intellij-get-shell-script-plugin"
